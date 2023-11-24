@@ -3,7 +3,7 @@ import streamlit as st
 st.write('This is page 2')
 
 
-st.button('Hit me')
+#st.button('Hit me')
 #st.data_editor('Edit data', data)
 st.checkbox('Check me out')
 st.radio('Pick one:', ['nose','ear'])
